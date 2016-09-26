@@ -1,5 +1,6 @@
 # Facebook Account Kit Node.js Demo
 
+This is a clone of facebook docs. 
 ref. https://developers.facebook.com/docs/accountkit/web
 
 ## setup
